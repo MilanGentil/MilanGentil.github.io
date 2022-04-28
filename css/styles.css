@@ -107,6 +107,7 @@ section img{
   margin-top: 5%;
 }
 
+
 .page2-h2 #h2-1{
   margin-top: 5%;
 }
@@ -119,11 +120,10 @@ section img{
   margin-top: 20px;
 }
 
-.page2 h1 #h2-4{
-  margin-top: 40px;
+#PT{
+  font-size: 40px;
 }
-
-
+  
 
 .bg-active{
   background-color: black;
